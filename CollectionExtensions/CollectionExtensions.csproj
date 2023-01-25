@@ -1,8 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageId>Adamijak.Collections.Extensions</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>adamijak</Authors>
+    <PackageTags>Collections;Extensions;</PackageTags>
+    <Description>Extensions for .NET collections.</Description>
+    <RepositoryUrl>https://github.com/adamijak/collection-extensions</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
-
 </Project>
